@@ -1,0 +1,2 @@
+# gosqlutil
+ mssql functions
