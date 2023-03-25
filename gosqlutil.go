@@ -37,7 +37,7 @@ func Conn() *sql.DB {
 			os.Exit(1)
 		}
 		pass := string(bytepw)
-		fmt.Println("")
+		fmt.Println(" ")
 
 		// Build connection string, user configuration file settings
 		// Connection with UID + PW
